@@ -7,4 +7,4 @@ void main(){
 	printf("English: 100 \n");
 	printf("asdfa");
 	a
-}
+}adsfasdf
